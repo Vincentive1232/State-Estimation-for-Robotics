@@ -13,9 +13,9 @@
 - Matlab was used.
 
 ### Results
-- The comparison between the groundtruth and the estimated trajectory. ![Comparison](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/Batch_Linear-Gaussian_Estimator/exercise_2_plot/1.jpg)
-- The error between the groundtruth and the estimated trajectory. ![Error](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/Batch_Linear-Gaussian_Estimator/exercise_2_plot/2.jpg)
-- The uncertainty and uncertainty envelope of the results. ![Uncertainty](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/Batch_Linear-Gaussian_Estimator/exercise_2_plot/3.jpg)
+- The comparison between the groundtruth and the estimated trajectory. ![Comparison](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A2_Final/exercise_2_plot/1.jpg)
+- The error between the groundtruth and the estimated trajectory. ![Error](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A2_Final/exercise_2_plot/2.jpg)
+- The uncertainty and uncertainty envelope of the results. ![Uncertainty](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A2_Final/exercise_2_plot/3.jpg)
 
 ### Reference
 > [State_Estimation_for_Robotics](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf)
