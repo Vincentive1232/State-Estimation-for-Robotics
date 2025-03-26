@@ -3,19 +3,19 @@
 ## Iterative Extended Kalman Filter for "Lost in the Woods Dataset"
 
 ### Notice
-1. folder "code_in_SE(3)" is the final version and the main file is "Assignment_4_GN_Batch.m"
-2. folder "code_Non_Lie_Flavored" is the code for inspecting the data and checking our motion and measurement model. The main file is "Assignment_3_starry_night_lsqnonlin.m". This version is not related to our final results.
+1. folder [code_in_SE(3)](https://github.com/Vincentive1232/State-Estimation-for-Robotics/tree/master/SER_A4_Final/code_in_SE(3)) is the final version and the main file is "Assignment_4_GN_Batch.m"
+2. folder [code_Non_Lie_Flavored](https://github.com/Vincentive1232/State-Estimation-for-Robotics/tree/master/SER_A4_Final/code_Non_Lie_Flavored) is the code for inspecting the data and checking our motion and measurement model. The main file is "Assignment_3_starry_night_lsqnonlin.m". This version is not related to our final results.
 
 ### Task
-- Investigate a nonlinear two-dimensional problem consisting of a robot driving amongst a forest of tubes. 
-- Estimated the position/orientation of the robot throughout its ≈ 360m traverse. 
+- Investigate a nonlinear three-dimensional problem consisting of a vehicle equipped with a stereo camera and inertial measurement unit (IMU) flying above a map of point features. 
+- Estimated the position/orientation of this vehicle throughout its ≈ 44.3 m traverse. 
 
 ### Dataset Acquisition
-
-![Experiment_Setup](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A3_Final/plots/Experiment_Setup.png)
+![Experiment_Setup 1](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A3_Final/plots/Experiment_Setup1.png)
+![Experiment_Setup 2](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A3_Final/plots/Experiment_Setup2.png)
 
 ### Pipeline
-- Use the recursive extended Kalman filter(Iterative EKF) to fuse speed measurements coming from wheel odometry with range/bearing measurements coming from a laser rangefinder.
+- Use the the batch Gauss-Newton method to fuse speed measurements from the IMU with point measurements from the stereo camera.
 
 ### Results
 ---
