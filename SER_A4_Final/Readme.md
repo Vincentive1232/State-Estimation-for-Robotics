@@ -21,10 +21,10 @@
 ### Results
 ---
 #### Estimation Error (sliding window size = 10)
-- ![Error Plot](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A4_Final/plots/Sliding_Window_10.png)
+![Error Plot](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A4_Final/plots/Sliding_Window_10.png)
 
 #### Estimation Error (sliding window size = 50)
-- ![Error Plot](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A4_Final/plots/Sliding_Window_50.png)
+![Error Plot](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A4_Final/plots/Sliding_Window_50.png)
 
 
 ### Reference
