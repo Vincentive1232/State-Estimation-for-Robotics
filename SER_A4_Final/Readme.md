@@ -1,6 +1,6 @@
 # State-Estimation-for-Robotics
 
-## Iterative Extended Kalman Filter for "Lost in the Woods Dataset"
+## Batch Gauss-Newton Estimator for "Starry Night Dataset"
 
 ### Notice
 1. folder [code_in_SE(3)](https://github.com/Vincentive1232/State-Estimation-for-Robotics/tree/master/SER_A4_Final/code_in_SE(3)) is the final version and the main file is [Assignment_4_GN_Batch](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A4_Final/code_in_SE(3)/Assignment_4_GN_Batch.m).
