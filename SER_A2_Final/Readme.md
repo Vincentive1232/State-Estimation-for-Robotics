@@ -6,7 +6,7 @@
 - Estimated the position of the robot along this line throughout its ≈ 280m journey. 
 
 ### Dataset Acquisition
-![Experiment_Setup](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/Batch_Linear-Gaussian_Estimator/exercise_2_plot/f3bab0bf39901312e9cc858d7acc672.png)
+![Experiment_Setup](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A2_Final/exercise_2_plot/f3bab0bf39901312e9cc858d7acc672.png)
 
 ### Pipeline
 - Use the batch linear-Gaussian estimator to fuse speed measurements coming from wheel odometry with range measurements coming from a laser rangefinder.
