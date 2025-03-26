@@ -3,8 +3,8 @@
 ## Iterative Extended Kalman Filter for "Lost in the Woods Dataset"
 
 ### Notice
-1. folder [code_in_SE(3)](https://github.com/Vincentive1232/State-Estimation-for-Robotics/tree/master/SER_A4_Final/code_in_SE(3)) is the final version and the main file is "Assignment_4_GN_Batch.m"
-2. folder [code_Non_Lie_Flavored](https://github.com/Vincentive1232/State-Estimation-for-Robotics/tree/master/SER_A4_Final/code_Non_Lie_Flavored) is the code for inspecting the data and checking our motion and measurement model. The main file is "Assignment_3_starry_night_lsqnonlin.m". This version is not related to our final results.
+1. folder [code_in_SE(3)](https://github.com/Vincentive1232/State-Estimation-for-Robotics/tree/master/SER_A4_Final/code_in_SE(3)) is the final version and the main file is [Assignment_4_GN_Batch](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A4_Final/code_in_SE(3)/Assignment_4_GN_Batch.m).
+2. folder [code_Non_Lie_Flavored](https://github.com/Vincentive1232/State-Estimation-for-Robotics/tree/master/SER_A4_Final/code_Non_Lie_Flavored) is the code for inspecting the data and checking our motion and measurement model. The main file is [Assignment_3_starry_night_lsqnonlin](https://github.com/Vincentive1232/State-Estimation-for-Robotics/blob/master/SER_A4_Final/code_Non_Lie_Flavored/Assignment_3_starry_night_lsqnonlin.m). This version is not related to our final results.
 
 ### Task
 - Investigate a nonlinear three-dimensional problem consisting of a vehicle equipped with a stereo camera and inertial measurement unit (IMU) flying above a map of point features. 
